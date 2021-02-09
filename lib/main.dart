@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
           // scale: 0.8, 
           height: 600,
           width: 600,
-          //color: Colors.red, sbah krte h try 5 mins                           
+          //color: Colors.red,                           
           colorBlendMode: BlendMode.darken,
           //fit: BoxFit.fitWidth,
         ),
