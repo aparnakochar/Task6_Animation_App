@@ -294,8 +294,7 @@ class _SecondScreenState extends State<SecondScreen>
                       ],
                     ),
                   ),
-//kya hua? wait ye ek functionality thi???????????????????hm  hats offfff dearrrrr?? waaah g waaaahhh misss coddderrr mst hai yrr thnks
-// oye ek kam karo dono button ke o/p par simple se static page attach kar do bss ok isko dekh ke to ache acheo ki halat kharab ho jani hai by god very funny
+
 
                   SizedBox(
                     height: 30,
@@ -384,9 +383,9 @@ class _SecondScreenState extends State<SecondScreen>
 }
 
 /*
-haa dear bolo k ye error ku ara h konsi red wali hm ok abhi dekh lete hai
+
 */
-// Animationn(  iskcut karo orr neeche paste karo fir ek ek kar fix karte hai
+// Animationn(  
 //   1.6,
 //   AnimatedBuilder(
 //     animation: _scaleController,
